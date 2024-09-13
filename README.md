@@ -7,9 +7,9 @@
 
 
 
-<img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="center" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
-<picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></ 
+<picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/></ 
 
 
 
@@ -46,7 +46,6 @@
  <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
 
 
 <br>
