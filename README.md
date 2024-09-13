@@ -9,7 +9,7 @@
 
 <img align="left" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
-<picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/></ 
+
 
 
 
