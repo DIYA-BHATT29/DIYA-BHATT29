@@ -7,7 +7,7 @@
 
 
 
-<img align="left" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="center" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 
 
