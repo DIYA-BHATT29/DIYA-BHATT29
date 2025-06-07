@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,linkedin,vscode,tailwind,javascript,linux,html,css,python,arduino,c,github,figma,nodejs,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,linkedin,vscode,tailwind,javascript,linux,html,css,python,docker,gcp,git,github,notion,robloxstudio,vscode,arduino,c,github,figma,nodejs,discord&perline=4" />
   </a>
 </p>
 
