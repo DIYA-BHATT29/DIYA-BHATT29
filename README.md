@@ -46,13 +46,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIYA-BHATT29&layout=compact&theme=radical)
 
-
-
+![Contribution Graph](https://ghchart.rshah.org/DIYA-BHATT29)
  
 ![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=DIYA-BHATT29&color=blue)
 
 
 [![Diya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diya-bhatt29&theme=react-dark)](https://github.com/DIYA-BHATT29)
