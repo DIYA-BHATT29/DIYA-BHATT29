@@ -11,7 +11,9 @@
 <img align="center" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 
-
+ <p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -60,12 +62,13 @@
 <br>
  
  <div align="center">
- <p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+
 
 
 <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" alt="Demo"/>
+</p>
 
 <div></div>
 </div>
