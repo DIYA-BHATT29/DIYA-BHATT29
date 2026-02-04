@@ -24,6 +24,8 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=flat-square&logo=google-chrome)](https://sl1nk.com/diya-bhatt-portfolio-25)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
