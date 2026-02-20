@@ -1,6 +1,14 @@
 ![MasterHead](https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966)
+
+
+<img src = "https://github.com/user-attachments/assets/29a42a07-9a59-4c0f-96e9-c26885568307" width =200px height = 600px>
+
+![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/3f245621-d4c7-487c-a959-3bda685fcda4)
+
+
 <h1 align="center">Heeyyyyyyyyyyyyyy👋</h1> 
 <h2 align ="center">I'm Diya Bhatt</h1>
+
 <h3 align="center">A passionate  Coding and Tech Enthusiast from Kerala,India</h3>
  <p align="center"><a href="https://github.com/DIYA-BHATT29/"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Freelancer&center=true&width=500&height=30"></a></p>
 <img align="center" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
