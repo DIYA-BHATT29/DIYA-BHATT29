@@ -1,4 +1,3 @@
-![MasterHead
 
 <img src = "https://github.com/user-attachments/assets/29a42a07-9a59-4c0f-96e9-c26885568307" width =200px height = 600px>
 
